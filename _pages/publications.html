@@ -9,18 +9,8 @@ author_profile: true
   <div class="wordwrap">You can also find my papers on <a href="{{site.author.googlescholar}}">Google Scholar</a>.</div>
 {% endif %}
 
-## Accepted Papers
+{% capture publications_markdown %}
+{% include_relative pubs.md %}
+{% endcapture %}
 
-- **The State and Fate of Summarization Datasets**
-  **Noam Dahan**, Coauthor 1, Coauthor 2
-  *NAACL 2025*
-  [Paper](https://aclanthology.org/2025.naacl-long.372/) · [Code](https://github.com/your-repo)
-
----
-
-## Preprints
-
-- **Title of Preprint**
-  **Noam Dahan**, Coauthor A, Coauthor B
-  *Under review*
-  [PDF](#) · [Code](#)
+{{ publications_markdown | markdownify }}
