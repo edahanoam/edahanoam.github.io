@@ -58,7 +58,7 @@ author:
 
   # Social media
   #artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "dahannoam.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -67,7 +67,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "noam-dahan-4494a52b0"# Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -75,7 +75,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Dahan_Noam
+  twitter          : "Dahan_Noam"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
