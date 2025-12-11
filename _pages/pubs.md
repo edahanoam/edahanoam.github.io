@@ -27,7 +27,7 @@ PromptSuite is a toolkit for multi-prompt evaluation featuring both an API and a
 
 ## Prepprints:
 ### Leveraging Digitized Newspapers to Collect Summarization Data in Low-Resource Languages
-**Noam Dahan**, Omer Kidron, Gabriel Stanovsky
+**Noam Dahan**, Omer Kidron, Gabriel Stanovsky\
 **Under Review**
 
 High quality summarization data remains scarce in under-represented languages. However, historical newspapers, made available through recent digitization efforts, offer an abundant source of untapped, naturally annotated data. In this work, we present a novel method for collecting naturally occurring summaries via Front-Page Teasers, where editors summarize full length articles.\
