@@ -25,7 +25,7 @@ PromptSuite is a toolkit for multi-prompt evaluation featuring both an API and a
 </p>
 ---
 
-## Prepprints:
+## Preprints:
 ### Leveraging Digitized Newspapers to Collect Summarization Data in Low-Resource Languages
 **Noam Dahan**, Omer Kidron, Gabriel Stanovsky\
 **Under Review**
