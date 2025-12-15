@@ -13,6 +13,6 @@ I completed my master’s in Computer Science at the Hebrew University of Jerusa
 
 In my past life, I spent over five years as a **journalist**: as a news editor at [Haaretz](https://en.wikipedia.org/wiki/Haaretz) and earlier at Galei Tzahal. So yes, I’ve always loved text (and factuality!).
 
-**I am seeking PhD opportunities in NLP groups, specifically those committed to human-centered AI.**
+**I am seeking PhD opportunities in NLP groups, particularly around evaluation, factuality, and human-centered AI.**
 
 I’m currently working on questions related to factuality and nuanced forms of misleading content, such as framing and omission. I'd love to connect if you're working on similar topics!
