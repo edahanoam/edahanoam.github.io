@@ -13,6 +13,6 @@ Before NLP, I spent over five years as a **journalist**: as a news editor at [Ha
 
 I completed my master’s in Computer Science at the Hebrew University of Jerusalem with [Dr. Gabriel Stanovsky](https://gabrielstanovsky.github.io/), where I worked on multilingual datasets and evaluation approaches in NLP (see [Publications](https://edahanoam.github.io/publications/) for more info:) ).
 
-**I am seeking PhD opportunities in NLP groups, particularly around evaluation, factuality, and human-centered AI.**
-
 I’m currently working on questions related to factuality and nuanced forms of misleading content, such as framing and omission. I'd love to connect if you're working on similar topics!
+
+**I am seeking PhD opportunities in NLP groups, particularly around evaluation, factuality, and human-centered AI.**
