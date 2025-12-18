@@ -11,7 +11,7 @@ I'm Noam, I am a **research fellow** at the Max Planck Institute for Software Sy
 
 I completed my master’s in Computer Science at the Hebrew University of Jerusalem with [Dr. Gabriel Stanovsky](https://gabrielstanovsky.github.io/), where I worked on multilingual datasets and evaluation approaches in NLP (see [Publications](https://edahanoam.github.io/publications/) for more info:) ).
 
-In my past life, I spent over five years as a **journalist**: as a news editor at [Haaretz](https://en.wikipedia.org/wiki/Haaretz) and earlier at GLZ Radio. So I really do love text (and thinking about its consequences!
+Before NLP, I spent over five years as a **journalist**: as a news editor at [Haaretz](https://en.wikipedia.org/wiki/Haaretz) and earlier at GLZ Radio. So I really do love text (and thinking about its consequences!
 
 **I am seeking PhD opportunities in NLP groups, particularly around evaluation, factuality, and human-centered AI.**
 
