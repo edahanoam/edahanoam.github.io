@@ -13,6 +13,6 @@ I completed my master’s in Computer Science at the Hebrew University of Jerusa
 
 Before NLP, I spent over five years as a **journalist**: working as a news editor at [Haaretz](https://en.wikipedia.org/wiki/Haaretz) and earlier at GLZ Radio. So I really do love text (and thinking about its consequences!).
 
-I’m currently working on questions related to factuality and nuanced forms of misleading content, such as framing and omission. I'd love to connect if you're working on similar topics!
+I’m currently working on factuality and nuanced forms of misinformation. I'd love to connect if you're working on similar topics!
 
 **I am seeking PhD opportunities in NLP groups, particularly around evaluation, factuality, and human-centered AI.**
