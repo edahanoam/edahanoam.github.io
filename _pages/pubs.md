@@ -1,5 +1,17 @@
 ## Accepted Papers:
 
+### The State and Fate of Summarization Datasets
+**Noam Dahan**, Gabriel Stanovsky\
+**NAACL 2025**
+
+We review 133 summarization datasets across 100+ languages, introduce a dataset ontology, and identify key bottlenecks shaping the field, including data quality issues, limited diversity,
+and an overreliance on distant supervision. We further make our findings accessible through an interactive platform.\
+[Paper](https://aclanthology.org/2025.naacl-long.372/), [Repo](https://github.com/edahanoam/Awesome-Summarization-Datasets)
+<p align="center">
+  <img src="/images/survey.png" alt="plot">
+</p>
+---
+
 ### Leveraging Digitized Newspapers to Collect Summarization Data in Low-Resource Languages
 **Noam Dahan**, Omer Kidron, Gabriel Stanovsky\
 **EACL 2026 Findings**
@@ -11,18 +23,6 @@ High quality summarization data remains scarce in under-represented languages. H
   <img src="/images/newspapers.png" alt="plot">
 </p>
 
----
-
-### The State and Fate of Summarization Datasets
-**Noam Dahan**, Gabriel Stanovsky\
-**NAACL 2025**
-
-We review 133 summarization datasets across 100+ languages, introduce a dataset ontology, and identify key bottlenecks shaping the field, including data quality issues, limited diversity,
-and an overreliance on distant supervision. We further make our findings accessible through an interactive platform.\
-[Paper](https://aclanthology.org/2025.naacl-long.372/), [Repo](https://github.com/edahanoam/Awesome-Summarization-Datasets)
-<p align="center">
-  <img src="/images/survey.png" alt="plot">
-</p>
 ---
 
 ### PromptSuite: A Task-Agnostic Framework for Multi-Prompt Generation
