@@ -1,5 +1,18 @@
 ## Accepted Papers:
 
+### Leveraging Digitized Newspapers to Collect Summarization Data in Low-Resource Languages
+**Noam Dahan**, Omer Kidron, Gabriel Stanovsky\
+**EACL 2026 Findings**
+
+High quality summarization data remains scarce in under-represented languages. However, historical newspapers, made available through recent digitization efforts, offer an abundant source of untapped, naturally annotated data. In this work, we present a novel method for collecting naturally occurring summaries via Front-Page Teasers, where editors summarize full length articles.\
+[Paper](https://arxiv.org/abs/2511.14598)
+
+<p align="center">
+  <img src="/images/newspapers.png" alt="plot">
+</p>
+
+---
+
 ### The State and Fate of Summarization Datasets
 **Noam Dahan**, Gabriel Stanovsky\
 **NAACL 2025**
@@ -23,16 +36,5 @@ PromptSuite is a toolkit for multi-prompt evaluation featuring both an API and a
 <p align="center">
   <img src="/images/prompt.drawio.png" alt="plot">
 </p>
----
 
-## Preprints:
-### Leveraging Digitized Newspapers to Collect Summarization Data in Low-Resource Languages
-**Noam Dahan**, Omer Kidron, Gabriel Stanovsky\
-**Under Review**
 
-High quality summarization data remains scarce in under-represented languages. However, historical newspapers, made available through recent digitization efforts, offer an abundant source of untapped, naturally annotated data. In this work, we present a novel method for collecting naturally occurring summaries via Front-Page Teasers, where editors summarize full length articles.\
-[Paper](https://arxiv.org/abs/2511.14598)
-
-<p align="center">
-  <img src="/images/newspapers.png" alt="plot">
-</p>
