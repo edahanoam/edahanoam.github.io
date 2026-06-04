@@ -15,4 +15,3 @@ Before NLP, I spent over five years as a **journalist**: working as a news edito
 
 I’m currently working on factuality and nuanced forms of misinformation. I'd love to connect if you're working on similar topics!
 
-**I am seeking PhD opportunities in NLP groups, particularly around evaluation, factuality, and human-centered AI.**
