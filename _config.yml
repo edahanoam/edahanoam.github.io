@@ -26,9 +26,10 @@ author:
   avatar           : "profilepic.jpg"
   name             : "Noam Dahan"
   pronouns         : # example: "she/her"  
-  bio              :  "PhD student, LTI"
+  bio              :  "PhD student, Language Technologies Institute"
+  employer         : "Carnegie Mellon University"
+
   location         : "Pittsburgh, PA"
-  employer         : #"Red Brick University"
   uri              : # URL
   email            : "edahanoam@gmail.com"
 
